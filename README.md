@@ -4,6 +4,9 @@ Building my own vanilla live coding language and played with Sonic Pi live codin
 ## Try it here!
 https://chloe2781.github.io/live-coding/
 
+## Watch my Sonic Pi 10-minute session here!
+https://youtu.be/GHYplGajtBc
+
 ## Details
 
 This is an almost minimal command-based live coding engine. Press the button to re-evaluate your code. This language allows you to specify a rhythmic pattern of beats by entering a space-separated list of times, pitches, and waves. You can also include javascript computation in the values. 
