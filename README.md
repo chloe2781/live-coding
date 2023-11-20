@@ -4,7 +4,7 @@ Building my own vanilla live coding language and played with Sonic Pi live codin
 ## Try it here!
 https://chloe2781.github.io/live-coding/
 
-## Watch my Sonic Pi 10-minute DJ session here!
+## Watch my Sonic Pi 10-minute DJ session here! (Covering(?) Satisfaction by Benny Benassi)
 https://youtu.be/GHYplGajtBc
 
 ## Details
